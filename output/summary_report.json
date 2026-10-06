@@ -1,0 +1,41 @@
+{
+  "run": {
+    "started_at": "2026-10-06T15:39:04.037259+00:00",
+    "completed_at": "2026-10-06T15:40:36.458530+00:00",
+    "duration_seconds": 92.42
+  },
+  "records": {
+    "raw_total": 1100,
+    "valid_total": 1100,
+    "rejected_total": 0,
+    "duplicates_removed": 1,
+    "final_total": 1099
+  },
+  "by_source": {
+    "Books to Scrape": {
+      "raw": 1000,
+      "valid": 1000,
+      "rejected": 0,
+      "duplicates_removed": 1,
+      "final": 999
+    },
+    "Quotes to Scrape": {
+      "raw": 100,
+      "valid": 100,
+      "rejected": 0,
+      "duplicates_removed": 0,
+      "final": 100
+    }
+  },
+  "rejected_by_reason": {},
+  "reconciliation": {
+    "raw_minus_rejected": 1100,
+    "valid_minus_duplicates": 1099,
+    "final_total": 1099
+  },
+  "output_files": {
+    "csv": "C:\\Users\\bande\\scraping_assignment\\output\\final_dataset.csv",
+    "summary": "C:\\Users\\bande\\scraping_assignment\\output\\summary_report.json",
+    "log": "C:\\Users\\bande\\scraping_assignment\\logs\\scraper.log"
+  }
+}

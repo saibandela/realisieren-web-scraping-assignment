@@ -1,0 +1,253 @@
+2026-10-06 21:09:04,037 | INFO | Scraping pipeline started.
+2026-10-06 21:09:04,037 | INFO | Books page 1: https://books.toscrape.com/
+2026-10-06 21:09:04,037 | INFO | Fetching page: https://books.toscrape.com/
+2026-10-06 21:09:07,621 | INFO | Successfully fetched https://books.toscrape.com/ (status=200)
+2026-10-06 21:09:08,161 | INFO | Books page 1: collected 20 records.
+2026-10-06 21:09:08,161 | INFO | Books page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:09:08,161 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-2.html
+2026-10-06 21:09:09,762 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-2.html (status=200)
+2026-10-06 21:09:10,300 | INFO | Books page 2: collected 20 records.
+2026-10-06 21:09:10,302 | INFO | Books page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:09:10,302 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-3.html
+2026-10-06 21:09:12,219 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-3.html (status=200)
+2026-10-06 21:09:12,746 | INFO | Books page 3: collected 20 records.
+2026-10-06 21:09:12,753 | INFO | Books page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:09:12,753 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-4.html
+2026-10-06 21:09:14,665 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-4.html (status=200)
+2026-10-06 21:09:15,224 | INFO | Books page 4: collected 20 records.
+2026-10-06 21:09:15,230 | INFO | Books page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:09:15,231 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-5.html
+2026-10-06 21:09:16,648 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-5.html (status=200)
+2026-10-06 21:09:17,215 | INFO | Books page 5: collected 20 records.
+2026-10-06 21:09:17,220 | INFO | Books page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:09:17,220 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-6.html
+2026-10-06 21:09:18,875 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-6.html (status=200)
+2026-10-06 21:09:19,413 | INFO | Books page 6: collected 20 records.
+2026-10-06 21:09:19,458 | INFO | Books page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:09:19,460 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-7.html
+2026-10-06 21:09:20,899 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-7.html (status=200)
+2026-10-06 21:09:21,449 | INFO | Books page 7: collected 20 records.
+2026-10-06 21:09:21,457 | INFO | Books page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:09:21,457 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-8.html
+2026-10-06 21:09:22,611 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-8.html (status=200)
+2026-10-06 21:09:23,149 | INFO | Books page 8: collected 20 records.
+2026-10-06 21:09:23,156 | INFO | Books page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:09:23,160 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-9.html
+2026-10-06 21:09:24,401 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-9.html (status=200)
+2026-10-06 21:09:24,933 | INFO | Books page 9: collected 20 records.
+2026-10-06 21:09:24,935 | INFO | Books page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:09:24,935 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-10.html
+2026-10-06 21:09:25,695 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-10.html (status=200)
+2026-10-06 21:09:26,227 | INFO | Books page 10: collected 20 records.
+2026-10-06 21:09:26,232 | INFO | Books page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:09:26,233 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-11.html
+2026-10-06 21:09:27,065 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-11.html (status=200)
+2026-10-06 21:09:27,588 | INFO | Books page 11: collected 20 records.
+2026-10-06 21:09:27,603 | INFO | Books page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:09:27,603 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-12.html
+2026-10-06 21:09:28,401 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-12.html (status=200)
+2026-10-06 21:09:28,955 | INFO | Books page 12: collected 20 records.
+2026-10-06 21:09:28,957 | INFO | Books page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:09:28,957 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-13.html
+2026-10-06 21:09:30,045 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-13.html (status=200)
+2026-10-06 21:09:30,579 | INFO | Books page 13: collected 20 records.
+2026-10-06 21:09:30,583 | INFO | Books page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:09:30,583 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-14.html
+2026-10-06 21:09:31,370 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-14.html (status=200)
+2026-10-06 21:09:31,903 | INFO | Books page 14: collected 20 records.
+2026-10-06 21:09:31,905 | INFO | Books page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:09:31,905 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-15.html
+2026-10-06 21:09:32,700 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-15.html (status=200)
+2026-10-06 21:09:33,230 | INFO | Books page 15: collected 20 records.
+2026-10-06 21:09:33,230 | INFO | Books page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:09:33,230 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-16.html
+2026-10-06 21:09:33,971 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-16.html (status=200)
+2026-10-06 21:09:34,510 | INFO | Books page 16: collected 20 records.
+2026-10-06 21:09:34,520 | INFO | Books page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:09:34,522 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-17.html
+2026-10-06 21:09:35,367 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-17.html (status=200)
+2026-10-06 21:09:35,897 | INFO | Books page 17: collected 20 records.
+2026-10-06 21:09:35,908 | INFO | Books page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:09:35,910 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-18.html
+2026-10-06 21:09:36,794 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-18.html (status=200)
+2026-10-06 21:09:37,328 | INFO | Books page 18: collected 20 records.
+2026-10-06 21:09:37,334 | INFO | Books page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:09:37,334 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-19.html
+2026-10-06 21:09:38,229 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-19.html (status=200)
+2026-10-06 21:09:38,773 | INFO | Books page 19: collected 20 records.
+2026-10-06 21:09:38,777 | INFO | Books page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:09:38,780 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-20.html
+2026-10-06 21:09:39,633 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-20.html (status=200)
+2026-10-06 21:09:40,173 | INFO | Books page 20: collected 20 records.
+2026-10-06 21:09:40,185 | INFO | Books page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:09:40,186 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-21.html
+2026-10-06 21:09:40,990 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-21.html (status=200)
+2026-10-06 21:09:41,536 | INFO | Books page 21: collected 20 records.
+2026-10-06 21:09:41,536 | INFO | Books page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:09:41,536 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-22.html
+2026-10-06 21:09:42,530 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-22.html (status=200)
+2026-10-06 21:09:43,061 | INFO | Books page 22: collected 20 records.
+2026-10-06 21:09:43,064 | INFO | Books page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:09:43,064 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-23.html
+2026-10-06 21:09:44,104 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-23.html (status=200)
+2026-10-06 21:09:44,636 | INFO | Books page 23: collected 20 records.
+2026-10-06 21:09:44,638 | INFO | Books page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:09:44,638 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-24.html
+2026-10-06 21:09:44,994 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-24.html (status=200)
+2026-10-06 21:09:45,521 | INFO | Books page 24: collected 20 records.
+2026-10-06 21:09:45,523 | INFO | Books page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:09:45,523 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-25.html
+2026-10-06 21:09:46,320 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-25.html (status=200)
+2026-10-06 21:09:46,851 | INFO | Books page 25: collected 20 records.
+2026-10-06 21:09:46,854 | INFO | Books page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:09:46,854 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-26.html
+2026-10-06 21:09:47,900 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-26.html (status=200)
+2026-10-06 21:09:48,434 | INFO | Books page 26: collected 20 records.
+2026-10-06 21:09:48,436 | INFO | Books page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:09:48,436 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-27.html
+2026-10-06 21:09:48,882 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-27.html (status=200)
+2026-10-06 21:09:49,415 | INFO | Books page 27: collected 20 records.
+2026-10-06 21:09:49,426 | INFO | Books page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:09:49,426 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-28.html
+2026-10-06 21:09:49,907 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-28.html (status=200)
+2026-10-06 21:09:50,484 | INFO | Books page 28: collected 20 records.
+2026-10-06 21:09:50,488 | INFO | Books page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:09:50,488 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-29.html
+2026-10-06 21:09:51,230 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-29.html (status=200)
+2026-10-06 21:09:51,765 | INFO | Books page 29: collected 20 records.
+2026-10-06 21:09:51,777 | INFO | Books page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:09:51,778 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-30.html
+2026-10-06 21:09:52,974 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-30.html (status=200)
+2026-10-06 21:09:53,561 | INFO | Books page 30: collected 20 records.
+2026-10-06 21:09:53,568 | INFO | Books page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:09:53,568 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-31.html
+2026-10-06 21:09:54,406 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-31.html (status=200)
+2026-10-06 21:09:54,933 | INFO | Books page 31: collected 20 records.
+2026-10-06 21:09:54,935 | INFO | Books page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:09:54,935 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-32.html
+2026-10-06 21:09:55,843 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-32.html (status=200)
+2026-10-06 21:09:56,374 | INFO | Books page 32: collected 20 records.
+2026-10-06 21:09:56,376 | INFO | Books page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:09:56,376 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-33.html
+2026-10-06 21:09:57,481 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-33.html (status=200)
+2026-10-06 21:09:58,012 | INFO | Books page 33: collected 20 records.
+2026-10-06 21:09:58,032 | INFO | Books page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:09:58,032 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-34.html
+2026-10-06 21:09:58,771 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-34.html (status=200)
+2026-10-06 21:09:59,311 | INFO | Books page 34: collected 20 records.
+2026-10-06 21:09:59,313 | INFO | Books page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:09:59,315 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-35.html
+2026-10-06 21:10:00,519 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-35.html (status=200)
+2026-10-06 21:10:01,070 | INFO | Books page 35: collected 20 records.
+2026-10-06 21:10:01,074 | INFO | Books page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:10:01,076 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-36.html
+2026-10-06 21:10:02,189 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-36.html (status=200)
+2026-10-06 21:10:02,724 | INFO | Books page 36: collected 20 records.
+2026-10-06 21:10:02,728 | INFO | Books page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:10:02,728 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-37.html
+2026-10-06 21:10:04,238 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-37.html (status=200)
+2026-10-06 21:10:04,827 | INFO | Books page 37: collected 20 records.
+2026-10-06 21:10:04,827 | INFO | Books page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:10:04,827 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-38.html
+2026-10-06 21:10:05,669 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-38.html (status=200)
+2026-10-06 21:10:06,239 | INFO | Books page 38: collected 20 records.
+2026-10-06 21:10:06,241 | INFO | Books page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:10:06,241 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-39.html
+2026-10-06 21:10:07,103 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-39.html (status=200)
+2026-10-06 21:10:07,624 | INFO | Books page 39: collected 20 records.
+2026-10-06 21:10:07,628 | INFO | Books page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:10:07,628 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-40.html
+2026-10-06 21:10:08,746 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-40.html (status=200)
+2026-10-06 21:10:09,269 | INFO | Books page 40: collected 20 records.
+2026-10-06 21:10:09,273 | INFO | Books page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:10:09,273 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-41.html
+2026-10-06 21:10:10,178 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-41.html (status=200)
+2026-10-06 21:10:10,717 | INFO | Books page 41: collected 20 records.
+2026-10-06 21:10:10,727 | INFO | Books page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:10:10,734 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-42.html
+2026-10-06 21:10:11,614 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-42.html (status=200)
+2026-10-06 21:10:12,145 | INFO | Books page 42: collected 20 records.
+2026-10-06 21:10:12,153 | INFO | Books page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:10:12,153 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-43.html
+2026-10-06 21:10:12,947 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-43.html (status=200)
+2026-10-06 21:10:13,489 | INFO | Books page 43: collected 20 records.
+2026-10-06 21:10:13,494 | INFO | Books page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:10:13,494 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-44.html
+2026-10-06 21:10:14,377 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-44.html (status=200)
+2026-10-06 21:10:14,904 | INFO | Books page 44: collected 20 records.
+2026-10-06 21:10:14,914 | INFO | Books page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:10:14,916 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-45.html
+2026-10-06 21:10:16,543 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-45.html (status=200)
+2026-10-06 21:10:17,139 | INFO | Books page 45: collected 20 records.
+2026-10-06 21:10:17,146 | INFO | Books page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:10:17,148 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-46.html
+2026-10-06 21:10:17,697 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-46.html (status=200)
+2026-10-06 21:10:18,262 | INFO | Books page 46: collected 20 records.
+2026-10-06 21:10:18,265 | INFO | Books page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:10:18,265 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-47.html
+2026-10-06 21:10:18,988 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-47.html (status=200)
+2026-10-06 21:10:19,531 | INFO | Books page 47: collected 20 records.
+2026-10-06 21:10:19,531 | INFO | Books page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:10:19,531 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-48.html
+2026-10-06 21:10:20,227 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-48.html (status=200)
+2026-10-06 21:10:20,745 | INFO | Books page 48: collected 20 records.
+2026-10-06 21:10:20,756 | INFO | Books page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:10:20,756 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-49.html
+2026-10-06 21:10:22,158 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-49.html (status=200)
+2026-10-06 21:10:22,690 | INFO | Books page 49: collected 20 records.
+2026-10-06 21:10:22,703 | INFO | Books page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:10:22,703 | INFO | Fetching page: https://books.toscrape.com/catalogue/page-50.html
+2026-10-06 21:10:23,090 | INFO | Successfully fetched https://books.toscrape.com/catalogue/page-50.html (status=200)
+2026-10-06 21:10:23,638 | INFO | Books page 50: collected 20 records.
+2026-10-06 21:10:23,638 | INFO | Books scraping completed. Total records: 1000
+2026-10-06 21:10:23,638 | INFO | Books scraping finished: 1000 records.
+2026-10-06 21:10:23,642 | INFO | Quotes page 1: https://quotes.toscrape.com/
+2026-10-06 21:10:23,642 | INFO | Fetching page: https://quotes.toscrape.com/
+2026-10-06 21:10:26,145 | INFO | Successfully fetched https://quotes.toscrape.com/ (status=200)
+2026-10-06 21:10:26,664 | INFO | Quotes page 1: collected 10 records.
+2026-10-06 21:10:26,678 | INFO | Quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-06 21:10:26,678 | INFO | Fetching page: https://quotes.toscrape.com/page/2/
+2026-10-06 21:10:27,480 | INFO | Successfully fetched https://quotes.toscrape.com/page/2/ (status=200)
+2026-10-06 21:10:27,994 | INFO | Quotes page 2: collected 10 records.
+2026-10-06 21:10:27,996 | INFO | Quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-06 21:10:27,996 | INFO | Fetching page: https://quotes.toscrape.com/page/3/
+2026-10-06 21:10:28,409 | INFO | Successfully fetched https://quotes.toscrape.com/page/3/ (status=200)
+2026-10-06 21:10:28,920 | INFO | Quotes page 3: collected 10 records.
+2026-10-06 21:10:28,920 | INFO | Quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-06 21:10:28,922 | INFO | Fetching page: https://quotes.toscrape.com/page/4/
+2026-10-06 21:10:29,270 | INFO | Successfully fetched https://quotes.toscrape.com/page/4/ (status=200)
+2026-10-06 21:10:29,787 | INFO | Quotes page 4: collected 10 records.
+2026-10-06 21:10:29,787 | INFO | Quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-06 21:10:29,789 | INFO | Fetching page: https://quotes.toscrape.com/page/5/
+2026-10-06 21:10:30,453 | INFO | Successfully fetched https://quotes.toscrape.com/page/5/ (status=200)
+2026-10-06 21:10:30,964 | INFO | Quotes page 5: collected 10 records.
+2026-10-06 21:10:30,998 | INFO | Quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-06 21:10:30,998 | INFO | Fetching page: https://quotes.toscrape.com/page/6/
+2026-10-06 21:10:31,677 | INFO | Successfully fetched https://quotes.toscrape.com/page/6/ (status=200)
+2026-10-06 21:10:32,197 | INFO | Quotes page 6: collected 10 records.
+2026-10-06 21:10:32,197 | INFO | Quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-06 21:10:32,197 | INFO | Fetching page: https://quotes.toscrape.com/page/7/
+2026-10-06 21:10:32,601 | INFO | Successfully fetched https://quotes.toscrape.com/page/7/ (status=200)
+2026-10-06 21:10:33,115 | INFO | Quotes page 7: collected 10 records.
+2026-10-06 21:10:33,117 | INFO | Quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-06 21:10:33,117 | INFO | Fetching page: https://quotes.toscrape.com/page/8/
+2026-10-06 21:10:33,520 | INFO | Successfully fetched https://quotes.toscrape.com/page/8/ (status=200)
+2026-10-06 21:10:34,024 | INFO | Quotes page 8: collected 10 records.
+2026-10-06 21:10:34,024 | INFO | Quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-06 21:10:34,024 | INFO | Fetching page: https://quotes.toscrape.com/page/9/
+2026-10-06 21:10:34,556 | INFO | Successfully fetched https://quotes.toscrape.com/page/9/ (status=200)
+2026-10-06 21:10:35,082 | INFO | Quotes page 9: collected 10 records.
+2026-10-06 21:10:35,082 | INFO | Quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-06 21:10:35,082 | INFO | Fetching page: https://quotes.toscrape.com/page/10/
+2026-10-06 21:10:35,877 | INFO | Successfully fetched https://quotes.toscrape.com/page/10/ (status=200)
+2026-10-06 21:10:36,380 | INFO | Quotes page 10: collected 10 records.
+2026-10-06 21:10:36,380 | INFO | Quotes scraping completed. Total records: 100
+2026-10-06 21:10:36,380 | INFO | Quotes scraping finished: 100 records.
+2026-10-06 21:10:36,380 | INFO | Total raw records: 1100
+2026-10-06 21:10:36,443 | INFO | Valid records: 1100
+2026-10-06 21:10:36,443 | INFO | Rejected records: 0
+2026-10-06 21:10:36,443 | INFO | Duplicates removed: 1
+2026-10-06 21:10:36,443 | INFO | Final records: 1099
+2026-10-06 21:10:36,456 | INFO | Final dataset written to: C:\Users\bande\scraping_assignment\output\final_dataset.csv
+2026-10-06 21:10:36,462 | INFO | Summary report written to: C:\Users\bande\scraping_assignment\output\summary_report.json
+2026-10-06 21:10:36,462 | INFO | Scraping pipeline completed.
